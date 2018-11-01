@@ -1,2 +1,2 @@
 # APS
-Flask app to regulate order pooling for a hostel block
+Flask app to facilitate order pooling for a hostel block
